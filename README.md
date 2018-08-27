@@ -1,4 +1,4 @@
-# minimal-react-webpack-babel-setup
+# React Starter - A minimal-react-webpack-babel-setup
 
 [![Build Status](https://travis-ci.org/rwieruch/minimal-react-webpack-babel-setup.svg?branch=master)](https://travis-ci.org/rwieruch/minimal-react-webpack-babel-setup) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
 
