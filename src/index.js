@@ -1,11 +1,8 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from "react";
+import ReactDOM from "react-dom";
 
-const title = 'My Minimal React Webpack Babel Setup';
-
-ReactDOM.render(
-  <div>{title}</div>,
-  document.getElementById('app')
-);
+const title = "My Minimal React Webpack Babel Setup";
+// revert merge
+ReactDOM.render(<div>{title}</div>, document.getElementById("app"));
 
 module.hot.accept();
