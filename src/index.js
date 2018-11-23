@@ -7,5 +7,6 @@ ReactDOM.render(<div>{title}</div>, document.getElementById("app"));
 
 // commit 1
 // commit 2
+// commit 3
 
 module.hot.accept();
